@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "import-sort-cli": "^4.2.0",
+    "import-sort-parser-typescript": "^4.2.0",
+    "import-sort-style-unsplash": "^4.0.4"
+  },
+  "importSort": {
+    ".js, .ts, .tsx": {
+      "parser": "typescript",
+      "style": "unsplash"
+    }
+  }
+}
